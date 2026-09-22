@@ -11,7 +11,7 @@ import com.squareup.picasso.Picasso;
 public class ViewArticleActivity extends AppCompatActivity {
   ImageView iv_detail;
   TextView tv_detail_title, tv_detail_description;
-
+//sthsthsth
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
